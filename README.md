@@ -1,14 +1,13 @@
 <div align="center">
 <h1>Geo-Location Distance Measurement</h1>
-<h4>Geo-Location Distance Measurement App made with Folium(Leaflet.js) and Django.
-<br>
-Calculate and visualize the distance between the current location and the destination.
-</h4>
-    
+<h4>Geo-Location Distance Measurement App made with Folium(Leaflet.js) and Django.</h4>
 <img src="demo.png">    
+<br>
 <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
-
 </div>
+
+## Functionalities
+- [x] Calculate and visualize the distance between the current location and the destination.
 
 ## Installation steps
 
@@ -51,6 +50,7 @@ You can get in touch with me on my LinkedIn Profile:
 #### Gulraiz Noor Bari
 [![LinkedIn Link](https://img.shields.io/badge/Connect-gulraiznoorbari-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/gulraiznoorbari)
+<br>
 [![Twitter Link](https://img.shields.io/badge/Follow-gulraiznoorbari-blue.svg?logo=twitter&longCache=true&style=social&label=Follow
 )](https://twitter.com/gulraiznoorbari)
 
